@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.android.hrs.blueprints.jumpmeasurementapp.mediumselect.ScrollChildSwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh_layout_select"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <RelativeLayout-->
+<!--        android:id="@+id/mediumContainer"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:clickable="true"-->
+<!--        android:orientation="vertical">-->
+
+        <LinearLayout
+            android:id="@+id/mediumLL"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+<!--            <TextView-->
+<!--                android:id="@+id/filteringLabel"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textAppearance="@style/TextAppearance.AppCompat.Title"-->
+<!--                android:gravity="center_vertical"-->
+<!--                android:layout_marginLeft="@dimen/list_item_padding"-->
+<!--                android:layout_marginRight="@dimen/list_item_padding"-->
+<!--                android:layout_marginTop="@dimen/activity_vertical_margin"-->
+<!--                android:layout_marginBottom="@dimen/activity_vertical_margin" />-->
+
+            <GridView
+                android:id="@+id/medium_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#888"
+                android:gravity="center"
+                android:horizontalSpacing="1dp"
+                android:verticalSpacing="1dp"
+                android:numColumns="2"
+                android:stretchMode="columnWidth" />
+
+            <EditText
+                android:id="@+id/add_media_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/title_hint"
+                android:maxLines="1"
+                android:inputType="text"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+<!--            <EditText-->
+<!--                android:id="@+id/add_media_date"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:maxLines="1"-->
+<!--                android:gravity="top"-->
+<!--                android:inputType="text"-->
+<!--                android:hint="@string/description_hint" />-->
+            <!-- CalendarViewを配置します。 -->
+            <CalendarView
+                android:id="@+id/calendarView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/noMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/noMediumIcon"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_assignment_turned_in_24dp" />
+
+            <TextView
+                android:id="@+id/noMediumMain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/no_medium_all"
+                android:layout_marginBottom="@dimen/list_item_padding" />
+
+            <TextView
+                android:id="@+id/noMediumAdd"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:background="@drawable/touch_feedback"
+                android:gravity="center"
+                android:text="@string/no_medium_add" />
+
+        </LinearLayout>
+<!--    </RelativeLayout>-->
+</com.example.android.hrs.blueprints.jumpmeasurementapp.mediumselect.ScrollChildSwipeRefreshLayout>
+

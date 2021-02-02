@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+
+<!--    <FrameLayout-->
+<!--        android:id="@+id/contentFrame"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent" />-->
+
+
+<!--    <com.isseiaoki.simplecropview.CropImageView-->
+<!--        android:id="@+id/cropImageView"-->
+<!--        xmlns:custom="http://schemas.android.com/apk/res-auto"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="250dp"-->
+<!--        android:padding="16dp"-->
+
+<!--        />-->
+<!--&lt;!&ndash;    custom:cropMode="ratio_1_1"    これはまだない&ndash;&gt;-->
+
+<!--    <Button-->
+<!--        android:id="@+id/crop_button"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_margin="16dp"-->
+<!--        android:text="CROP"-->
+<!--        />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/croppedImageView"-->
+<!--        android:layout_margin="16dp"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        />-->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/contentFrame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <!-- BottomNavigationView を追加-->
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/bottom_navigation"
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:layout_gravity="bottom"
+                android:background="@color/colorPrimary"
+                app:itemTextColor="@drawable/bottom_navigation_item_state"
+                app:itemIconTint="@drawable/bottom_navigation_item_state"
+                app:menu="@menu/bottom_navigation_item"/>
+
+
+
+        <FrameLayout
+            android:id="@+id/contentFrame2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+
+
+
+
+
+        </FrameLayout>
+        </FrameLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_imageprossesing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/ic_add"
+            app:layout_anchor="@id/contentFrame"
+            app:layout_anchorGravity="bottom|right|end"
+            app:fabSize="normal" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+
+
+</LinearLayout>

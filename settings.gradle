@@ -1,0 +1,3 @@
+include ':Opencv'
+include ':app'
+rootProject.name = "Jump measurement app"

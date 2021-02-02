@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "eae5b118724258c06789762d264ebd41",
+    "entities": [
+      {
+        "tableName": "templateMedia",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`template_id` TEXT NOT NULL, `template_blob` BLOB, `media_model_id` TEXT, PRIMARY KEY(`template_id`))",
+        "fields": [
+          {
+            "fieldPath": "mId",
+            "columnName": "template_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "mTemplate_blob",
+            "columnName": "template_blob",
+            "affinity": "BLOB",
+            "notNull": false
+          },
+          {
+            "fieldPath": "mMediaModelBlobId",
+            "columnName": "media_model_id",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "template_id"
+          ],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, \"eae5b118724258c06789762d264ebd41\")"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1082139508/Jump_measurement_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1082139508/Jump_measurement_app.iml" group="Jump_measurement_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1868420896/Opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/1868420896/Opencv.iml" group="Jump measurement app/Opencv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Jump measurement app/app" />
+    </modules>
+  </component>
+</project>

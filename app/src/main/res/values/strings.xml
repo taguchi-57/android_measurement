@@ -1,0 +1,52 @@
+<resources>
+    <string name="test">test</string>
+    <string name="app_name">Jump measurement app</string>
+    <string name="medium_select_button">メディア選択</string>
+    <string name="registered_button">登録済み一覧</string>
+    <string name="medium_description">medium_description</string>
+
+
+    <string name="add_media">New TO-DO</string>
+    <string name="edit_media">Edit TO-DO</string>
+    <string name="media_marked_complete">編集モード終了しました。</string>
+    <string name="media_marked_active">編集モードです。</string>
+    <string name="media_resistered">動画登録完了しました。</string>>
+    <string name="loading_medium_error">Error while loading tasks</string>
+    <string name="completed_medium_cleared">Completed tasks cleared</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_media">Delete task</string>
+    <string name="navigation_view_header_title">TO-DOs</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">日付</string>
+    <string name="empty_media_message">TO DOs cannot be empty</string>
+    <string name="successfully_saved_media_message">TO-DO saved</string>
+    <string name="list_title">TO-DO List</string>
+<!--    <string name="statistics_title">Statistics</string>-->
+<!--    <string name="statistics_no_tasks">You have no tasks.</string>-->
+<!--    <string name="statistics_active_tasks">Active tasks:</string>-->
+<!--    <string name="statistics_completed_tasks">Completed tasks:</string>-->
+<!--    <string name="statistics_error">Error loading statistics.</string>-->
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+
+    <string-array name="list_medium_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">Completed</string>
+    <string name="label_all">All TO-DOs</string>
+    <string name="label_active">Active TO-DOs</string>
+    <string name="label_completed">Completed TO-DOs</string>
+    <string name="no_medium_all">You have no TO-DOs!</string>
+    <string name="no_medium_active">You have no active TO-DOs!</string>
+    <string name="no_medium_completed">You have no completed TO-DOs!</string>
+    <string name="no_medium_add">Add a TO-DO item +</string>
+    <string name="refresh">Refresh</string>
+
+
+
+</resources>

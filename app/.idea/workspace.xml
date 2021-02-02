@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2deefd7-42a0-4183-8768-6faf12764a2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_23" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mGHgrkubVJhnKSt5vlUEoNDz9s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-31T18:19:06.516Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2deefd7-42a0-4183-8768-6faf12764a2f" name="Default Changelist" comment="" />
+      <created>1609113121411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609113121411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="187" key="#Auto_Import" timestamp="1609115910191">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="187" key="#Auto_Import/0.0.1920.1050@0.0.1920.1050" timestamp="1609115910191" />
+    <state x="590" y="305" key="AndroidCreateResourceFileDialog" timestamp="1610005719056">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="590" y="335" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1609422603502" />
+    <state x="590" y="305" key="AndroidCreateResourceFileDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610005719056" />
+    <state width="418" height="465" key="DebuggerActiveHint" timestamp="1609829225339">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="407" height="459" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609770646296" />
+    <state width="418" height="465" key="DebuggerActiveHint/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1609829225339" />
+    <state x="3140" y="281" key="FileChooserDialogImpl" timestamp="1610271272234">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3140" y="281" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610271272234" />
+    <state x="976" y="222" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609430227348" />
+    <state x="976" y="225" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1609805198065" />
+    <state x="3140" y="283" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609114097793" />
+    <state width="1491" height="228" key="GridCell.Tab.0.bottom" timestamp="1610100021737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021737" />
+    <state width="890" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609681409658" />
+    <state width="1491" height="255" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903271" />
+    <state width="1491" height="228" key="GridCell.Tab.0.center" timestamp="1610100021736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021736" />
+    <state width="890" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609681409658" />
+    <state width="1491" height="255" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903271" />
+    <state width="1491" height="228" key="GridCell.Tab.0.left" timestamp="1610100021736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021736" />
+    <state width="890" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609681409658" />
+    <state width="1491" height="255" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903271" />
+    <state width="1491" height="228" key="GridCell.Tab.0.right" timestamp="1610100021736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021736" />
+    <state width="890" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609681409658" />
+    <state width="1491" height="255" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903271" />
+    <state width="1491" height="228" key="GridCell.Tab.1.bottom" timestamp="1610100021738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021738" />
+    <state width="1491" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609681302821" />
+    <state width="1491" height="255" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903272" />
+    <state width="1491" height="228" key="GridCell.Tab.1.center" timestamp="1610100021737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021737" />
+    <state width="1491" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609681302821" />
+    <state width="1491" height="255" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903272" />
+    <state width="1491" height="228" key="GridCell.Tab.1.left" timestamp="1610100021737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021737" />
+    <state width="1491" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609681302820" />
+    <state width="1491" height="255" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903272" />
+    <state width="1491" height="228" key="GridCell.Tab.1.right" timestamp="1610100021737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="228" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610100021737" />
+    <state width="1491" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609681302821" />
+    <state width="1491" height="255" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1610009903272" />
+    <state x="2980" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1610244026345">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610081047750" />
+    <state x="2980" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610244026345" />
+    <state x="677" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609420708725" />
+    <state x="677" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1609820203434" />
+    <state x="677" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1609333896289" />
+    <state x="201" y="153" width="1134" height="564" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609824596720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="201" y="153" width="1134" height="564" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1609824596720" />
+    <state x="1920" y="16" width="1585" height="897" key="dock-window-1" timestamp="1610099560210">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="16" width="1585" height="897" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610099560210" />
+    <state x="765" y="191" key="run.anything.popup" timestamp="1609815426955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="765" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1609398026834" />
+    <state x="765" y="191" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1609815426955" />
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609115219423">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1609115219423" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumPresenter.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/mediumselect/MediumSelectFragment.java</url>
+          <line>460</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/LocalMediumRepository.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/LocalMediumRepository.java</url>
+          <line>294</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/start/StartActivity.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/mediumselect/MediumSelectFragment.java</url>
+          <line>499</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/mediumselect/MediumSelectFragment.java</url>
+          <line>298</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumPresenter.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/MediumRepository.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/MediumRepository.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/MediumRepository.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/source/MediumRepository.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mock/java/com/example/android/hrs/blueprints/jumpmeasurementapp/data/FakeMediumRemoteDataSource.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumPresenter.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>527</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>471</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>472</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>476</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>477</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>521</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumPresenter.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/android/hrs/blueprints/jumpmeasurementapp/registeredmedium/ResisteredMediumFragment.java</url>
+          <line>428</line>
+          <properties field="mInflater" class="com.example.android.hrs.blueprints.jumpmeasurementapp.registeredmedium.ResisteredMediumFragment.CardRecyclerAdapter" />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="mCachedMedium.isEmpty()" />
+        <watch expression="mCachedMedium" />
+        <watch expression="directory.listFiles()" />
+        <watch expression="mTitle.getText()" />
+        <watch expression="mCachedMedium" />
+        <watch expression="mTitle.getText().toString()" />
+        <watch expression="mDate.getText().toString()" />
+        <watch expression="mMediumAdapter.mMediaPath" />
+        <watch expression="TASKS_SERVICE_DATA.values()" />
+        <watch expression="media.getTitleForList()" />
+        <watch expression="media" />
+        <watch expression="media.getDateForList()" />
+        <watch expression="media.getPathForList()" />
+        <watch expression="mListener" />
+        <watch expression="medium.get(i).getId()" />
+        <watch expression="medium.get(i)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
